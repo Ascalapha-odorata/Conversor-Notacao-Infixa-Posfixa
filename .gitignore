@@ -1,4 +1,13 @@
+
 *.class
 *.ctxt
-*.jar
+.bluej/
+
+hs_err_pid*
+replay_pid*
+
+*.war
+*.ear
 *.zip
+*.tar.gz
+*.rar
