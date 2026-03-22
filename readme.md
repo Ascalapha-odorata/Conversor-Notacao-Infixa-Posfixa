@@ -1,4 +1,4 @@
-Programa de conversão de expressões infixas para posfixas (operadores são adicionados após os operandos)
+Programa de conversão de expressões da notação infixa para a posfixa
 
 Neste pprograma feito em Java é possível inserir uma expressão em  que esteja na notação infixa (operadores entre os operandos), e convertê-la para a notação posfixa (operadores depois dos operandos). Este programa é direcionado a pessoas que estejam aprendendo a realizar a conversão, então todo o processo é mostrado utilizando a estrutura de pilha.
 
